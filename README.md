@@ -15,8 +15,9 @@ HTML, CSS, JAVA SCRIPT, REACT, NODEJS, EXPRESSJS, MONGODB, BOOTSTRAP
 https://mern-frontend-zztn.onrender.com/
 
 # Screenshots
-
+Home Screen
 <img width="947" alt="Screenshot 2023-10-25 153028" src="https://github.com/Suman746301/GoFood-A-Food-Ordering-App/assets/74864276/47732f5a-d51e-4325-ab8c-326d0c56b7a2">
++ Login Screen
 <img width="945" alt="Screenshot 2023-10-25 153251" src="https://github.com/Suman746301/GoFood-A-Food-Ordering-App/assets/74864276/6286195b-f7f5-49bb-9f5e-ba74caeddd31">
 <img width="944" alt="Screenshot 2023-10-25 153219" src="https://github.com/Suman746301/GoFood-A-Food-Ordering-App/assets/74864276/83d3decf-7629-495c-8551-c05d04aea1f9">
 <img width="948" alt="Screenshot 2023-10-25 164042" src="https://github.com/Suman746301/GoFood-A-Food-Ordering-App/assets/74864276/fc395a59-db09-4dc4-bb15-2cd485991f26">
