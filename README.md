@@ -16,3 +16,14 @@ https://mern-frontend-zztn.onrender.com/
 
 # Screenshots
 
+<img width="944" alt="Screenshot 2023-10-25 152333" src="https://github.com/Suman746301/GoFood-A-Food-Ordering-App/assets/74864276/2a046233-b7ee-4c5c-ba4f-4326b9114612">
+<img width="783" alt="Screenshot 2023-10-25 152355" src="https://github.com/<img width="941" alt="Screenshot 2023-10-25 152522" src="https://github.com/Suman746301/GoFood-A-
+<img width="947" alt="Screenshot 2023-10-25 153028" src="https://github.com/Suman746301/GoFood-A-Food-Ordering-App/assets/74864276/47732f5a-d51e-4325-ab8c-326d0c56b7a2">
+<img width="941" alt="Screenshot 2023-10-25 152522" src="https://github.com/Suman746301/GoFood-A-Food-Ordering-App/assets/74864276/a1031454-fd8a-4e16-bdfa-ef18c1b95e87">
+<img width="932" alt="Screenshot 2023-10-25 152909" src="https://github.com/Suman746301/GoFood-A-Food-Ordering-App/assets/74864276/34b7bad8-315a-44cd-85a7-402d2db0d6af">
+<img width="944" alt="Screenshot 2023-10-25 153219" src="https://github.com/Suman746301/GoFood-A-Food-Ordering-App/assets/74864276/83d3decf-7629-495c-8551-c05d04aea1f9">
+<img width="945" alt="Screenshot 2023-10-25 153251" src="https://github.com/Suman746301/GoFood-A-Food-Ordering-App/assets/74864276/6286195b-f7f5-49bb-9f5e-ba74caeddd31">
+<img width="860" alt="Screenshot 2023-10-25 153409" src="https://github.com/Suman746301/GoFood-A-Food-Ordering-App/assets/74864276/def3d518-c8e9-48bb-a210-e9d133907528">
+<img width="760" alt="Screenshot 2023-10-25 153942" src="https://github.com/Suman746301/GoFood-A-Food-Ordering-App/assets/74864276/f3c762fd-58b5-4c1f-951d-82ce443fc716">
+<img width="756" alt="Screenshot 2023-10-25 154130" src="https://github.com/Suman746301/GoFood-A-Food-Ordering-App/assets/74864276/500c8695-5745-4c0e-b922-fe2685475ddd">
+<img width="948" alt="Screenshot 2023-10-25 164042" src="https://github.com/Suman746301/GoFood-A-Food-Ordering-App/assets/74864276/fc395a59-db09-4dc4-bb15-2cd485991f26">
