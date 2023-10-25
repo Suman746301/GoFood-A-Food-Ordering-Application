@@ -12,7 +12,7 @@ Back-end: https://github.com/Suman746301/mern_backend
 HTML, CSS, JAVA SCRIPT, REACT, NODEJS, EXPRESSJS, MONGODB, BOOTSTRAP
 
 # Deployed Link( Live-Demo)
-https://mern-frontend-zztn.onrender.com/
+https://go-food-6n2h.onrender.com
 
 # Screenshots
 Home Screen
