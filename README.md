@@ -35,7 +35,7 @@ History Of previous order, with date
 <img width="932" alt="Screenshot 2023-10-25 152909" src="https://github.com/Suman746301/GoFood-A-Food-Ordering-App/assets/74864276/34b7bad8-315a-44cd-85a7-402d2db0d6af">
 
 CheckOut Screen
-<img width="941" alt="Screenshot 2023-10-25 152522" src="https://github.com/Suman746301/GoFood-A-Food-Ordering-App/assets/74864276/a1031454-fd8a-4e16-bdfa-ef18c1b95e87">
+<img width="941" alt="Screenshot 2023-10-25 204332" src="https://github.com/Suman746301/GoFood-A-Food-Ordering-App/assets/74864276/836df61d-a726-4451-b862-1740baa03e46">
 
 Data Entry in MongoDB Atlas for User and Order
 <img width="760" alt="Screenshot 2023-10-25 153942" src="https://github.com/Suman746301/GoFood-A-Food-Ordering-App/assets/74864276/f3c762fd-58b5-4c1f-951d-82ce443fc716">
